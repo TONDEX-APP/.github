@@ -1,5 +1,5 @@
 
-##The TONDEX platform provides on-chain analytics, a swap tool, and DEXs, there is a lot to process for any level trader.
+## The TONDEX platform provides on-chain analytics, a swap tool, and DEXs, there is a lot to process for any level trader.
 
 Put simply, TONDEX offers data. We work hard to gather all relevant on-chain data to then present it to TONDEX users in a helpful and efficient way for DeFi traders. Data will be collected from TVM compatible chains so DeFi traders on TON  can enjoy the same trading experience when analyzing their favourite Jettons. This will be done by monitoring many unique DEXs and their pools for liquidity changes, trades, and price movements.
 
